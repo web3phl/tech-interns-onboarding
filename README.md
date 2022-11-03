@@ -9,5 +9,7 @@
 
 ### Official Interns
 
+**Renzo Cabarios** | Tech Intern
+
 <!-- Follow this format for PRs -->
 <!-- **Mark Cabale** | Tech Intern -->
