@@ -1,5 +1,4 @@
 # Web3 Philippines
-
 ### Tech Intership Program
 
 **John Carl James Nebab** | Frontend Tech Lead
