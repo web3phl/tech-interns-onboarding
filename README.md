@@ -9,5 +9,7 @@
 
 ### Official Interns
 
+**Rane Gillian Villanueva** | Tech Intern Lead
+
 <!-- Follow this format for PRs -->
 <!-- **Mark Cabale** | Tech Intern -->
