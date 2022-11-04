@@ -11,5 +11,7 @@
 
 **Rane Gillian Villanueva** | Tech Intern Lead
 
+**Aaron Dave Deinla** | Tech Intern
+
 <!-- Follow this format for PRs -->
 <!-- **Mark Cabale** | Tech Intern -->
