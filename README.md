@@ -15,5 +15,7 @@
 
 **Aaron Dave Deinla** | Tech Intern
 
+**Gabriel Mendoza** | Tech Intern
+
 <!-- Follow this format for PRs -->
 <!-- **Mark Cabale** | Tech Intern -->
