@@ -19,5 +19,6 @@
 
 **Raymond Charles Turla** | Tech Intern
 
+**John Heinrich Fabros** | Tech Intern
 <!-- Follow this format for PRs -->
 <!-- **Mark Cabale** | Tech Intern -->
